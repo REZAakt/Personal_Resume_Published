@@ -1,12 +1,12 @@
 ﻿
 @font-face {
     font-family: 'Shabnam-FD';
-    src: url('/Fonts/Shabnam-FD.woff2') format('truetype');
+    src: url('Fonts/Shabnam-FD.woff2') format('truetype');
 }
 
 @font-face {
     font-family: 'irsans';
-    src: url('/Fonts/irsans.ttf') format('truetype');
+    src: url('Fonts/irsans.ttf') format('truetype');
 }
 
 html, body {
