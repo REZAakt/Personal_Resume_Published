@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "udEqyG4R",
+  "version": "u5Iowp2/",
   "assets": [
     {
       "hash": "sha256-eX+bqd7jMEB9wCMQ9ac1iRxxFLRNyqSxKX14QB5TXqo=",
@@ -118,8 +118,8 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.b8ld3tn35n.wasm"
     },
     {
-      "hash": "sha256-UfxSnPdjfX3RYhY7oSrlw4v0LnoazdtV61/cfAKzgkQ=",
-      "url": "_framework/Personal_Resume.bdhfec0yb3.wasm"
+      "hash": "sha256-BecMHguFDBlIxBVBVZijwV2OXVd6yjvCxWdBvnDC/lc=",
+      "url": "_framework/Personal_Resume.xlb9w9eegq.wasm"
     },
     {
       "hash": "sha256-KFmvuJ8ahruRXEJgsqQ8k2q5H62frtHA0JoJxqZ3FSw=",
@@ -214,8 +214,8 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.66stpp682q.js"
     },
     {
-      "hash": "sha256-QT8BYLqKcNcGCYCbNqqY9RY40VsPdBTRvW0R7pMqgKg=",
-      "url": "_framework/dotnet.l7fdthtbac.js"
+      "hash": "sha256-Ug6E8wsjPyxc8Nj5pmzWBvekA5MY48ZfG9nJr1K1H3o=",
+      "url": "_framework/dotnet.28by5ztpyv.js"
     },
     {
       "hash": "sha256-/I3SDHIle7heAxlUGBrgxax+lkKyWyRLBVEJmTHJSCs=",
@@ -230,12 +230,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.runtime.0j6ezsi0n0.js"
     },
     {
-      "hash": "sha256-vJCZ3WV7xxRrwyNh/iy5PWZ4458LhO6SYhO5HW1ThFQ=",
-      "url": "_framework/en/Personal_Resume.resources.ka481u3338.wasm"
+      "hash": "sha256-BpzOA3rtCtP6S2tOmUR1riGpDCr5RkR/7VQpk5lkr2w=",
+      "url": "_framework/en/Personal_Resume.resources.6pvek6mopz.wasm"
     },
     {
-      "hash": "sha256-ccXhhn5Vv9bSZCQRZNjjx6mH5KeDDrqEFNUJqKqBHe8=",
-      "url": "_framework/fa/Personal_Resume.resources.3jy3d7o1ck.wasm"
+      "hash": "sha256-hV9IjuvpBJF12GHKDAZkQM3CaX0tB17jEqdRdL80OTQ=",
+      "url": "_framework/fa/Personal_Resume.resources.lgnrchs2mp.wasm"
     },
     {
       "hash": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
@@ -258,7 +258,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-HVp3TaHnLsmWKHUrIArUyOVbmrjKFo9a7VcxEoxZ9ww=",
+      "hash": "sha256-Ix/1VI37Ic1VjfDIkHHxk0qEdNKOnQWkrw0ecg4mM2I=",
       "url": "index.html"
     },
     {
